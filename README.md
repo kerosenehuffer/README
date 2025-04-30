@@ -11,16 +11,13 @@
 I'm a passionate software engineer with a focus on building robust, scalable solutions. Currently, I'm working on:
 
 - **S.A.M (Smart Artificial Mind):** An advanced AI project.
-- **Private Ruby on Rails Apps:** Custom web applications for select clients.
-
-I'm always exploring new technologies and approaches, especially in the areas of security and hardware.
 
 ---
 
 ## 🚀 Current Focus
 
-- **Operations**
-- **Learning:** Hardware approaches to break security for entry point systems
+- **Learning:**
+  - Rust-based implementation of LLMs (Large Language Models) and machine learning algorithms
 
 ---
 
